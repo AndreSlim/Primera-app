@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="ventana1">Esta es la actividad numero UNO</string>
+    <string name="ventana2">Esta es la actividad numero DOS</string>
+    <string name="boton">Cambiar de actividad</string>
+    <string name="botonAct3">Ir a la siguiente actividad</string>
+    <string name="botonOn">Boton Encendido</string>
+    <string name="botonOff">Boton Apagado</string>}
+    <string name="baja">Down!</string>
+    <string name="R">Rojo</string>
+    <string name="G">Verde</string>
+    <string name="B">Azul</string>
+    <string name="comp">Comprobar</string>
+
+</resources>
